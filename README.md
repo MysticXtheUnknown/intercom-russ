@@ -1,4 +1,4 @@
-Several Intercom Solutions for devices with python.
+Several Intercom Solutions for devices with python.  For Linux. 
 
 License: Open Source, Free with no restrictions
 Disclaimer: Use at your own risk.
