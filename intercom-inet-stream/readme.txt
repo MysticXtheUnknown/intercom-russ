@@ -12,8 +12,6 @@ Requirements
 
 You can install the Python dependencies with:
 
-bash
-
 pip install pyaudio pynput
 
 Scripts
