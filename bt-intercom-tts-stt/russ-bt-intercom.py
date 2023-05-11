@@ -1,6 +1,7 @@
 
 #This intercom works by, you say 'blueberry', and it beeps, and it records audio, waits for two seconds of silence, then turns the audio to text, transmits the text over bluetooth socket, then the other device turns the text to speech and plays it on it's connected speaker.
 
+#Please set this to an appropriate value for your microphone.
 my_threshold = -40  #edutige eim 003
 
 # Used to work with sockets, for example, to get the hostname
